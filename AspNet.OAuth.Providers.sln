@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.OAuth.Providers", "AspNet.OAuth.Providers\AspNet.OAuth.Providers.csproj", "{665A8DB2-26F7-41E4-A860-E6199EF6DA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665A8DB2-26F7-41E4-A860-E6199EF6DA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665A8DB2-26F7-41E4-A860-E6199EF6DA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665A8DB2-26F7-41E4-A860-E6199EF6DA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665A8DB2-26F7-41E4-A860-E6199EF6DA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A30E3A93-DF0E-499D-876F-4AC4AE289BE0}
+	EndGlobalSection
+EndGlobal
